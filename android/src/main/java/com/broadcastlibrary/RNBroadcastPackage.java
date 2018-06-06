@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.broadcastlibrary;
 
 import android.app.Activity;
 
